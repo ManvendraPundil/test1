@@ -37,7 +37,7 @@ class HomePageCategory extends StatelessWidget {
               );
             },
             child: Container(
-              padding: EdgeInsets.all(8),
+              padding: const EdgeInsets.all(8),
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(12),
                 border: Border.all(),
