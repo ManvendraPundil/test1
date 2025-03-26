@@ -1,0 +1,2 @@
+C:/Users/manav/Desktop/Manav/q_mart/android/app/.cxx/Debug/504w3v4y/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/manav/Desktop/Manav/q_mart/android/app/.cxx/Debug/504w3v4y/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/manav/Desktop/Manav/q_mart/android/app/.cxx/RelWithDebInfo/3352w463/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/manav/Desktop/Manav/q_mart/android/app/.cxx/RelWithDebInfo/3352w463/armeabi-v7a/CMakeFiles/rebuild_cache.dir
